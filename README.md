@@ -1,1 +1,2 @@
-# wikipr
+# wikiprojekts
+Projekts par pīļknābja populārizēšanu.
